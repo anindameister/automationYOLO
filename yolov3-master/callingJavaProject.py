@@ -283,6 +283,43 @@ dir_path = 'F:\\data2rdf-master\\target'
 # F:\data2rdf-master
 os.chdir(dir_path)
 subprocess.run('java -jar data2rdf-1.0-SNAPSHOT.jar -f eu.qanswer.data2rdf.mappings.imageannotation.ObjectPosition -o outputfile.nt', shell=True)
+dir_path = 'F:\\data2rdf-master\\target'
+# F:\data2rdf-master
+os.chdir(dir_path)
+# with open("outputfile.nt", "rb") as f:
+#     lines = [x.decode('utf8').strip() for x in f.readlines()]
+    
+#     lines = [l for l in lines if "ROW" in l]
+#     with open("ObjectPositionOutput.nt", "wb") as f1:
+#         f1.writelines(lines)
+
+# with open("outputfile.nt_ontology", "rb") as f:
+#     lines = [x.decode('utf8').strip() for x in f.readlines()]
+    
+#     lines = [l for l in lines if "ROW" in l]
+#     with open("ObjectPositionOutput.nt", "wb") as f1:
+#         f1.writelines(lines)
+
+# with open("outputfile.nt", "rb") as f:
+#     with open("ObjectPositionOutput.nt", "wb") as f1:
+#         for line in f:
+#             if "ROW" in line:
+#                 f1.write(line) 
+
+f=open("outputfile.nt", "rb")  
+f1=open('ObjectPositionOutput.nt','ab')
+for x in f.readlines():
+    f1.write(x)
+f.close()
+f1.close()
+
+f2=open("outputfile.nt_ontology", "rb")  
+f3=open('ObjectPositionOutput.nt','ab')
+for y in f2.readlines():
+    f3.write(y)
+f2.close()
+f3.close()
+
 # java  -jar data2rdf-1.0-SNAPSHOT.jar -f eu.qanswer.data2rdf.mappings.imageannotation.ObjectPosition -o outputfile.nt
 # computers = {}
 # computers['PC 1'] = 'some ip'
