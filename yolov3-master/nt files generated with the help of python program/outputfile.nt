@@ -1,0 +1,47 @@
+<https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg" .
+<https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q7378> .
+<https://upload.wikimedia.org/wikipedia/commons/f/f9/African_bush_elephant_in_San_Diego_Zoo.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "https://upload.wikimedia.org/wikipedia/commons/f/f9/African_bush_elephant_in_San_Diego_Zoo.jpg" .
+<https://upload.wikimedia.org/wikipedia/commons/f/f9/African_bush_elephant_in_San_Diego_Zoo.jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<https://upload.wikimedia.org/wikipedia/commons/f/f9/African_bush_elephant_in_San_Diego_Zoo.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q7378> .
+<https://upload.wikimedia.org/wikipedia/commons/6/6d/Asian_Elephant_10.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "https://upload.wikimedia.org/wikipedia/commons/6/6d/Asian_Elephant_10.jpg" .
+<https://upload.wikimedia.org/wikipedia/commons/6/6d/Asian_Elephant_10.jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<https://upload.wikimedia.org/wikipedia/commons/0/03/Barcelona_-_Mammoth_sculpture.JPG> <http://www.w3.org/2000/01/rdf-schema#label> "https://upload.wikimedia.org/wikipedia/commons/0/03/Barcelona_-_Mammoth_sculpture.JPG" .
+<https://upload.wikimedia.org/wikipedia/commons/0/03/Barcelona_-_Mammoth_sculpture.JPG> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<https://upload.wikimedia.org/wikipedia/commons/0/03/Barcelona_-_Mammoth_sculpture.JPG> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q7378> .
+<https://upload.wikimedia.org/wikipedia/commons/9/91/Elefantes%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_10.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "https://upload.wikimedia.org/wikipedia/commons/9/91/Elefantes%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_10.jpg" .
+<https://upload.wikimedia.org/wikipedia/commons/9/91/Elefantes%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_10.jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<https://upload.wikimedia.org/wikipedia/commons/9/91/Elefantes%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_10.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q7378> .
+<https://upload.wikimedia.org/wikipedia/commons/9/91/Elefantes%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_10.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q7378> .
+<https://upload.wikimedia.org/wikipedia/commons/9/91/Elefantes%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_10.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q7378> .
+<https://upload.wikimedia.org/wikipedia/commons/9/91/Elefantes%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_10.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_top> <http://www.wikidata.org/entity/Q41607> .
+<https://upload.wikimedia.org/wikipedia/commons/9/91/Elefantes%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_10.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q41607> .
+<https://upload.wikimedia.org/wikipedia/commons/9/91/Elefantes%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_10.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_top> <http://www.wikidata.org/entity/Q41607> .
+<https://upload.wikimedia.org/wikipedia/commons/9/91/Elefantes%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_10.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q41607> .
+<https://upload.wikimedia.org/wikipedia/commons/9/91/Elefantes%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_10.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_top> <http://www.wikidata.org/entity/Q41607> .
+<https://upload.wikimedia.org/wikipedia/commons/9/91/Elefantes%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_10.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q204776> .
+<https://upload.wikimedia.org/wikipedia/commons/9/91/Elefantes%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_10.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_top> <http://www.wikidata.org/entity/Q204776> .
+<https://upload.wikimedia.org/wikipedia/commons/e/ea/Elefante_africano_de_sabana_%28Loxodonta_africana%29%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-25%2C_DD_19.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "https://upload.wikimedia.org/wikipedia/commons/e/ea/Elefante_africano_de_sabana_%28Loxodonta_africana%29%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-25%2C_DD_19.jpg" .
+<https://upload.wikimedia.org/wikipedia/commons/e/ea/Elefante_africano_de_sabana_%28Loxodonta_africana%29%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-25%2C_DD_19.jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<https://upload.wikimedia.org/wikipedia/commons/e/ea/Elefante_africano_de_sabana_%28Loxodonta_africana%29%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-25%2C_DD_19.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.wikidata.org/entity/Q7378> .
+<https://upload.wikimedia.org/wikipedia/commons/0/09/Elephant_Kruger_2003.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "https://upload.wikimedia.org/wikipedia/commons/0/09/Elephant_Kruger_2003.jpg" .
+<https://upload.wikimedia.org/wikipedia/commons/0/09/Elephant_Kruger_2003.jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<https://upload.wikimedia.org/wikipedia/commons/0/09/Elephant_Kruger_2003.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.wikidata.org/entity/Q7378> .
+<https://upload.wikimedia.org/wikipedia/commons/0/02/Etosha_elefant.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "https://upload.wikimedia.org/wikipedia/commons/0/02/Etosha_elefant.jpg" .
+<https://upload.wikimedia.org/wikipedia/commons/0/02/Etosha_elefant.jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<https://upload.wikimedia.org/wikipedia/commons/0/02/Etosha_elefant.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q7378> .
+<https://upload.wikimedia.org/wikipedia/commons/f/f9/Loxodonta_africana_-_drinking.jpg> <http://www.w3.org/2000/01/rdf-schema#label> "https://upload.wikimedia.org/wikipedia/commons/f/f9/Loxodonta_africana_-_drinking.jpg" .
+<https://upload.wikimedia.org/wikipedia/commons/f/f9/Loxodonta_africana_-_drinking.jpg> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q478798> .
+<https://upload.wikimedia.org/wikipedia/commons/f/f9/Loxodonta_africana_-_drinking.jpg> <http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.wikidata.org/entity/Q7378> .
+<http://qanswer.eu/data/datasets/objectPosition/has_on_the_left> <http://www.w3.org/2000/01/rdf-schema#label> "has on the left"@en .
+<http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.w3.org/2000/01/rdf-schema#label> "has on the right"@en .
+<http://qanswer.eu/data/datasets/objectPosition/has_on_the_top> <http://www.w3.org/2000/01/rdf-schema#label> "has on the top"@en .
+<http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.w3.org/2000/01/rdf-schema#label> "has on the bottom"@en .
+<http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.w3.org/2000/01/rdf-schema#label> "has in the center"@en .
+<http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.w3.org/2000/01/rdf-schema#label> "has in the middle"@en .
+<http://qanswer.eu/data/datasets/objectPosition/has_on_the_left> <http://www.w3.org/2000/01/rdf-schema#label> "a sur la gauche"@fr .
+<http://qanswer.eu/data/datasets/objectPosition/has_on_the_right> <http://www.w3.org/2000/01/rdf-schema#label> "a sur la droite"@fr .
+<http://qanswer.eu/data/datasets/objectPosition/has_on_the_top> <http://www.w3.org/2000/01/rdf-schema#label> "a sur le dessus"@fr .
+<http://qanswer.eu/data/datasets/objectPosition/has_on_the_bottom> <http://www.w3.org/2000/01/rdf-schema#label> "a sur le dessous"@fr .
+<http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.w3.org/2000/01/rdf-schema#label> "a au centre"@fr .
+<http://qanswer.eu/data/datasets/objectPosition/has_in_the_center> <http://www.w3.org/2000/01/rdf-schema#label> "a au milieu"@fr .

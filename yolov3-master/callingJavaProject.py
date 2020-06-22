@@ -272,8 +272,18 @@ print(ddf)
 
 # excel_parameters={'has on the left':hasintheleft,"has on the right":hasintheright,"has on the top":hasinthetop,"has on the bottom":hasinthebottom,"has in the center":hasinthecenter}
 # ddf=dddf.assign(excel_parameters, columns=['has on the left','has on the right','has on the top','has on the bottom','has in the center'])
-ddf.to_csv("F:\\yolov3-master\\excels\\imageHasOnLeftRightCenterTopBottom.csv",sep=',',index=False)
+ddf.to_csv("F:\\data2rdf-master\\src\\main\\resources\\imageHasOnLeftRightCenterTopBottom.csv",sep=',',index=False)
+# F:\data2rdf-master\src\main\resources
+dir_path = 'F:\\data2rdf-master'
+# F:\data2rdf-master
+os.chdir(dir_path)
+subprocess.run('mvn clean install', shell=True)
 
+dir_path = 'F:\\data2rdf-master\\target'
+# F:\data2rdf-master
+os.chdir(dir_path)
+subprocess.run('java -jar data2rdf-1.0-SNAPSHOT.jar -f eu.qanswer.data2rdf.mappings.imageannotation.ObjectPosition -o outputfile.nt', shell=True)
+# java  -jar data2rdf-1.0-SNAPSHOT.jar -f eu.qanswer.data2rdf.mappings.imageannotation.ObjectPosition -o outputfile.nt
 # computers = {}
 # computers['PC 1'] = 'some ip'
 # computers['PC 2'] = 'other ip'

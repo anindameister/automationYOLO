@@ -1,4 +1,4 @@
-X1,Y1,X2,Y2,object name,Image name,X-centre,Y-centre,URLs,dimention,Y-Image Dimentions,X-Image Dimentions,hasintheleft,hasintheright,hasinthetop,hasinthebottom,hasinthecenter
+X1,Y1,X2,Y2,object name,Image name,X-centre,Y-centre,URLs,dimention,Y-Image Dimentions,X-Image Dimentions,has on the left,has on the right,has on the top,has on the bottom,has in the center
 367,934,2320,3663,elephant,African_Bush_Elephant.jpg,1343.5,2298.5,https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg,"(2592, 3888)",2592,3888,na,na,na,elephant,na
 660,332,2170,1659,elephant,African_bush_elephant_in_San_Diego_Zoo.jpg,1415.0,995.5,https://upload.wikimedia.org/wikipedia/commons/f/f9/African_bush_elephant_in_San_Diego_Zoo.jpg,"(2827, 1988)",2827,1988,na,elephant,na,na,na
 48,383,4239,3146,elephant,Asian_Elephant_10.jpg,2143.5,1764.5,https://upload.wikimedia.org/wikipedia/commons/6/6d/Asian_Elephant_10.jpg,"(4288, 3216)",4288,3216,na,na,na,na,na
